@@ -1,0 +1,2 @@
+# CALCULADORA_DE_NOTAS-Android-Second-App
+Olá a todos!👋 Comecei a estudar as linguagens Java e Kotlin com o propósito de aprender a criar aplicativos Android e este é o meu SEGUNDO aplicativo, primeiro usando Kotlin. Se trata de um aplicativo de Calcular notas de Alunos, que ao inserir as notas, a quantidade de Faltas e clicar no botão Calcular ele Informa se o(a) aluno(a) foi aprovado(a) ou reprovado(a). É bem simples, sem um layout chamativo, mas já sinto feliz em estar aprendendo🙏
